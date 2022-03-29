@@ -1,0 +1,5 @@
+This is a mobile application I created in 2020 used to track safety distances while conducting explosive operations. This application is similar to the EODTeamLeader application I created in 2017 but allows for more versatility when inputting specific explosive equivalence (RE) factors. Additionally, the EODTeamLeader application contain FOUO(For Official Use Only) and cannot be disseminated to the entire public.
+
+This application is meant to help the demolition operations supervisor calculate safety distances while conducting explosive work. Different charges can be built with original or modified RE factors and safety distance for internal and external breaching is immediately available. Distances can be displayed in feet or maters and rounded up if desired.
+
+It is important to note that this application is only meant to assist the demolition operations supervisor. The supervisor is still ultimately responsible to ensure all calculations are correct and where he places personnel during operations is ultimately HIS responsibility. 

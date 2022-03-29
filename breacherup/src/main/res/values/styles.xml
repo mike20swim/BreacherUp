@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="MyTheme" parent="@android:style/Theme.Light">
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+    <style name="TextColor">
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+</resources>

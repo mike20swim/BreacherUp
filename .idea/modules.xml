@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BreacherUp.iml" filepath="$PROJECT_DIR$/BreacherUp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/breacherup/breacherup.iml" filepath="$PROJECT_DIR$/breacherup/breacherup.iml" />
+    </modules>
+  </component>
+</project>

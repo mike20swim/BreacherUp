@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EOD TL</string>
+    <string name="unit">feet</string>
+    <color name="black">#000000</color>
+</resources>

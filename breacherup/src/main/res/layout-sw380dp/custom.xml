@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_weight="1">
+
+
+    <TextView
+        android:id="@+id/tittle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="5dp"
+        android:textSize="30dp"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:text="Disclaimer" />
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tittle"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:textSize="20dp"
+        android:text="Under no circumstances shall BreacherUp or its creators, affiliates, partners, or licensors be liable for any indirect, incidental, consensual, special, exemplary damages, injuries or deaths arising out of or in connection with the use of this application, whether or not the damages, injuries or deaths were foreseeable, inevitable or due to the user’s negligence while using BreacherUp. BreacherUp is meant to be used as a tool; any action taken by the application’s user upon the information in this application is strictly at the user’s own risk."/>
+    <Button
+        android:id="@+id/dialogButtonOK"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/text"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="5dp"
+        android:textSize="20dp"
+        android:layout_gravity="center"
+        android:text=" I Agree " />
+
+</LinearLayout>
